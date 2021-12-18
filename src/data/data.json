@@ -1,184 +1,117 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "We are SolSantaClaus",
+    "paragraph": "888 SantaClaus at 0.5SOL/unit coming up the 23rd December 2021"
   },
-  "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "Faq": {
+    "paragraph": "Why in SantaClaus you should trust: ",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Supply: 888",
+      "Price: 0.5SOL",
+      "Mint date: 23rd December 2021",
+      "Network: Solana"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Safety PPH zone",
+      "$Santa token",
+      "Santa showcase (temporary market)",
+      "Happy January"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Fire Rockstar Santa",
+      "largeImage": "img/portfolio/santa1.png",
+      "smallImage": "img/portfolio/santa1.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Team Yellow Santa",
+      "largeImage": "img/portfolio/santa2.jpg",
+      "smallImage": "img/portfolio/santa2.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Team Green Santa",
+      "largeImage": "img/portfolio/santa3.jpg",
+      "smallImage": "img/portfolio/santa3.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Cougar Santa",
+      "largeImage": "img/portfolio/santa4.jpg",
+      "smallImage": "img/portfolio/santa4.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Team Rockstar Santa",
+      "largeImage": "img/portfolio/santa5.jpg",
+      "smallImage": "img/portfolio/santa5.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Rainbow Rockstar Santa",
+      "largeImage": "img/portfolio/santa6.jpg",
+      "smallImage": "img/portfolio/santa6.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Canardo Santa",
+      "largeImage": "img/portfolio/santa7.png",
+      "smallImage": "img/portfolio/santa7.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "Fisherman Green Santa",
+      "largeImage": "img/portfolio/santa8.jpg",
+      "smallImage": "img/portfolio/santa8.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
-    }
-  ],
-  "Services": [
-    {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
-  ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "title": "HoHoHo Santa",
+      "largeImage": "img/portfolio/santa9.png",
+      "smallImage": "img/portfolio/santa9.png"
     }
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/nicolas.png",
+      "name": "Nicolas Dehaeseleer (CEO)",
+      "job": "He is 25 and lives in Belgium. He works as an accountant and is pursuing a master in tax law to specialize in crypto taxation. In crypto since 2018, he is particularly interested in NFTs.",
+      "socials1": "Twitter: @Nicolasdehaese1",
+      "socials2": "Instagram: nicolasdehaeseleer"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/olivier.png",
+      "name": "Olivier Janmart (Designer)",
+      "job": "He is 28 years old and also lives in Belgium. He works as an electromechanical engineer and his passion is drawing. Not into the world of crypto and NFTs, he will mainly deal with design.",
+      "socials1": "Twitter: @JanmartOlivier",
+      "socials2": "Instagram: olivierjanmart"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/charles.png",
+      "name": " Charles Boutault (Community manager)",
+      "job": "He is 29 years old and lives in France. He has been in crypto for 2 years. In the team, he is in charge of writing messages and making collaborations.",
+      "socials1": "Twitter: @Canardo64",
+      "socials2": "Instagram: yoshii644"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/santa.png",
+      "name": " SantaClaus (Gift deliver)",
+      "job": "He's the center of our project, he and his 888 friends are going to land in your wallet the 23rd December 2021",
+      "socials1": "Twitter: @SolSantaclaus"
     }
   ],
-  "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
-  },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-medkit",
+      "title": "Safety-PPH-zone",
+      "text": "The SafetyPPHzone will start at 50% of the mint price and will increase by 3% per day. This means that every day the team will sweep what is below this SafetyPPHzone, which guarantee that 17 days after the mint, the price cannot be lower than the mint price !",
+      "link": "https://twitter.com/SolSantaclaus/status/1471249167716655114"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-money",
+      "title": "Santa token",
+      "text": "$Santa will be the cryptocurrency of Santaclaus and will be the currency of exchange for the NFT store on our website.",
+      "link": "https://twitter.com/SolSantaclaus/status/1471508978936868869"
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Showcase",
+      "text": "NFTs from different collections will be available on the showcase page of our website, (SDB, Turtles, Pesky penguins, etc). All the NFT you will see will have already been purchased and will be in the Santa community wallet. You will have the possibility to buy these NFTs only with $Santa cryptocurrency on our store.",
+      "link": "https://twitter.com/SolSantaclaus/status/1467610432659763201"
     }
   ]
 }

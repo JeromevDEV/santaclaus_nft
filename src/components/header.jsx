@@ -1,3 +1,6 @@
+import {FaTwitter} from "react-icons/fa";
+import { FaDiscord } from 'react-icons/fa';
+
 export const Header = (props) => {
   return (
     <header id='header'>
@@ -10,13 +13,11 @@ export const Header = (props) => {
                   {props.data ? props.data.title : 'Loading'}
                   <span></span>
                 </h1>
-                <p>{props.data ? props.data.paragraph : 'Loading'}</p>
-                <a
-                  href='#features'
-                  className='btn btn-custom btn-lg page-scroll'
-                >
-                  Learn More
-                </a>{' '}
+                <p id='introText'>{props.data ? props.data.paragraph : 'Loading'}</p>
+                <a href="https://twitter.com/SolSantaclaus" className="twitter social"> <FaTwitter size={70} /></a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://discord.gg/CyR98CRX" className="discord social"><FaDiscord size={70}/></a>
               </div>
             </div>
           </div>
