@@ -19,7 +19,9 @@ export const Team = (props) => {
                       <h4>{d.name}</h4>
                       <p>{d.job}</p>
                       <p>Twitter:<a href={`https://twitter.com/${d.socials1}`}>{d.socials1}</a></p>
-                      <p>{d.socials2}</p>
+                      {!!d.socials2 &&
+                      <p>Instagram:<a href={`https://www.instagram.com/${d.socials2}`}>{d.socials2}</a></p>
+                      }
                     </div>
                   </div>
                 </div>
