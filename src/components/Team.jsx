@@ -18,7 +18,7 @@ export const Team = (props) => {
                     <div className='caption'>
                       <h4>{d.name}</h4>
                       <p>{d.job}</p>
-                      <p>Twitter:<a href={`https://twitter.com/:${d.socials1}`}>{d.socials1}</a></p>
+                      <p>Twitter:<a href={`https://twitter.com/${d.socials1}`}>{d.socials1}</a></p>
                       <p>{d.socials2}</p>
                     </div>
                   </div>
