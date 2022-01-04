@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/santaclaus_nft/static/css/main.7c90efc5.chunk.css",
-    "main.js": "/santaclaus_nft/static/js/main.8c675a39.chunk.js",
-    "main.js.map": "/santaclaus_nft/static/js/main.8c675a39.chunk.js.map",
+    "main.js": "/santaclaus_nft/static/js/main.6146a794.chunk.js",
+    "main.js.map": "/santaclaus_nft/static/js/main.6146a794.chunk.js.map",
     "runtime-main.js": "/santaclaus_nft/static/js/runtime-main.c6352844.js",
     "runtime-main.js.map": "/santaclaus_nft/static/js/runtime-main.c6352844.js.map",
     "static/js/2.5ad15e35.chunk.js": "/santaclaus_nft/static/js/2.5ad15e35.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c6352844.js",
     "static/js/2.5ad15e35.chunk.js",
     "static/css/main.7c90efc5.chunk.css",
-    "static/js/main.8c675a39.chunk.js"
+    "static/js/main.6146a794.chunk.js"
   ]
 }
