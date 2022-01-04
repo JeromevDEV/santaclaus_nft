@@ -5,6 +5,7 @@ import { Features } from "./components/features";
 import { Faq } from "./components/faq";
 import { Gallery } from "./components/gallery";
 import { Team } from "./components/Team";
+import { Rarity } from "./components/rarity";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
@@ -27,6 +28,7 @@ const App = () => {
       <Faq data={landingPageData.Faq} />
       <Features data={landingPageData.Features} />
       <Gallery data={landingPageData.Gallery}/>
+      <Rarity data={landingPageData.Rarity}/>
       <Team data={landingPageData.Team} />
     </div>
   );
