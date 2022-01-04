@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/santaclaus_nft/static/css/main.7c90efc5.chunk.css",
-    "main.js": "/santaclaus_nft/static/js/main.067d1266.chunk.js",
-    "main.js.map": "/santaclaus_nft/static/js/main.067d1266.chunk.js.map",
-    "runtime-main.js": "/santaclaus_nft/static/js/runtime-main.c6352844.js",
-    "runtime-main.js.map": "/santaclaus_nft/static/js/runtime-main.c6352844.js.map",
-    "static/js/2.380ae5ab.chunk.js": "/santaclaus_nft/static/js/2.380ae5ab.chunk.js",
-    "static/js/2.380ae5ab.chunk.js.map": "/santaclaus_nft/static/js/2.380ae5ab.chunk.js.map",
-    "index.html": "/santaclaus_nft/index.html",
-    "static/css/main.7c90efc5.chunk.css.map": "/santaclaus_nft/static/css/main.7c90efc5.chunk.css.map",
-    "static/js/2.380ae5ab.chunk.js.LICENSE.txt": "/santaclaus_nft/static/js/2.380ae5ab.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.7c90efc5.chunk.css",
+    "main.js": "/static/js/main.506229bf.chunk.js",
+    "main.js.map": "/static/js/main.506229bf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a68a8f72.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a68a8f72.js.map",
+    "static/js/2.5ad15e35.chunk.js": "/static/js/2.5ad15e35.chunk.js",
+    "static/js/2.5ad15e35.chunk.js.map": "/static/js/2.5ad15e35.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7c90efc5.chunk.css.map": "/static/css/main.7c90efc5.chunk.css.map",
+    "static/js/2.5ad15e35.chunk.js.LICENSE.txt": "/static/js/2.5ad15e35.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c6352844.js",
-    "static/js/2.380ae5ab.chunk.js",
+    "static/js/runtime-main.a68a8f72.js",
+    "static/js/2.5ad15e35.chunk.js",
     "static/css/main.7c90efc5.chunk.css",
-    "static/js/main.067d1266.chunk.js"
+    "static/js/main.506229bf.chunk.js"
   ]
 }
