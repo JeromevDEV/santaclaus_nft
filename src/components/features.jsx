@@ -17,7 +17,6 @@ export const Features = (props) => {
                 </div>
               ))
             : 'Loading...'}
-            <iframe className="iframeSanta" src="https://nomics.com/exchanges/raydium/markets/BimPSEV2PwioDzgFJ91LvvmmbxTZoMM9GDzRGywyFt3m#chart" title="$Santa chart"/>
         </div>
       </div>
     </div>

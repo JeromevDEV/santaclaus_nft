@@ -287,8 +287,17 @@ header .intro-text {
   color: white;
 }
 
+/* Chart section */
+#chart {
+  padding: 100px 0;
+  background-color: black;
+}
+
+#chart h2 {
+  color: #C30F16;
+}
+
 .iframeSanta {
-  margin-top: 30px;
   width: 100%;
   height: 100%;
 }
