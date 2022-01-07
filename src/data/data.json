@@ -19,17 +19,17 @@
   },
   "Gallery": [
     {
-      "title": "Fire Rockstar Santa",
+      "title": "Fire Santa",
       "largeImage": "img/portfolio/santa1.png",
       "smallImage": "img/portfolio/santa1.png"
     },
     {
-      "title": "Team Yellow Santa",
+      "title": "Team Red Santa",
       "largeImage": "img/portfolio/santa2.jpg",
       "smallImage": "img/portfolio/santa2.jpg"
     },
     {
-      "title": "Team Green Santa",
+      "title": "Purple beard Santa",
       "largeImage": "img/portfolio/santa3.jpg",
       "smallImage": "img/portfolio/santa3.jpg"
     },
